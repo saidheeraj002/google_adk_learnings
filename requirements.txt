@@ -1,3 +1,4 @@
 google-adk
 pymysql
 yfinance==0.2.56
+pinecone

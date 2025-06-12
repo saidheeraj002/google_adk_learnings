@@ -1,0 +1,1 @@
+from .movies_info_agent import movies_info_agent
